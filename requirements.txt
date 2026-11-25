@@ -1,0 +1,10 @@
+scanpy>=1.10
+anndata
+scikit-image
+leidenalg
+igraph
+pandas
+matplotlib
+seaborn
+jupyter
+ipykernel
