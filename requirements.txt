@@ -1,6 +1,7 @@
 scanpy>=1.10
 anndata
 scikit-image
+scikit-misc
 leidenalg
 igraph
 pandas
