@@ -16,8 +16,9 @@ PBMC3k scRNA-seq 데이터를 Python(scanpy)으로 다시 분석하고, R(Seurat
 | `scripts/common.py` | 공통 경로, 데이터 읽기 (직접 실행하지 않음) | |
 | `scripts/01_qc.py` | QC 지표, 세포 거르기 → `work/pbmc_qc.h5ad` | `01_qc.R` |
 | `scripts/01b_doublet.py` | Scrublet doublet 판정, scDblFinder와 비교 → `work/pbmc_qc_dbl.h5ad` | `01b_qc_extra.R` |
-| `R/export_seurat.R` | R 결과(HVG, PCA, 세포 유형)를 CSV로 내보냄 → `work/r_export/` (Rscript로 실행) | |
+| `R/export_seurat.R` | R 결과(HVG, PCA, 군집, UMAP, SNN 그래프, 세포 유형)를 CSV로 내보냄 → `work/r_export/` (Rscript로 실행) | |
 | `scripts/02_pca.py` | 정규화 → HVG → PCA를 두 설정(scanpy 기본값, Seurat 맞춤)으로 하고 R과 비교 → `work/pbmc_pca.h5ad` | `02_pca.R` |
+| `scripts/03_cluster.py` | 이웃 그래프 → 군집 → UMAP을 네 설정으로 하고 R과 비교 → `work/pbmc_cluster.h5ad` | `03_cluster.R` |
 
 단계별 판단과 R과의 비교는 [notes.md](notes.md)에 있다.
 

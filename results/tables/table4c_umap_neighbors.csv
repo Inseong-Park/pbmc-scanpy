@@ -1,0 +1,4 @@
+﻿비교,이웃 일치율
+R vs Python 기본값,0.323
+R vs Python Seurat 맞춤,0.579
+"Python Seurat 맞춤: seed 0 vs seed 1 (같은 설정, 시작값만 다름)",0.617
