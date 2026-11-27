@@ -1,0 +1,145 @@
+﻿설정,군집,R 세포 유형,순위,유전자
+Python 기본값,0,Naive CD4 T,1,RPS12
+Python 기본값,0,Naive CD4 T,2,RPS27
+Python 기본값,0,Naive CD4 T,3,RPS6
+Python 기본값,0,Naive CD4 T,4,RPS25
+Python 기본값,0,Naive CD4 T,5,RPL31
+Python 기본값,0,Naive CD4 T,6,LDHB
+Python 기본값,0,Naive CD4 T,7,RPL32
+Python 기본값,0,Naive CD4 T,8,RPS14
+Python Seurat 맞춤,0,Naive CD4 T,1,CCR7
+Python Seurat 맞춤,0,Naive CD4 T,2,LEF1
+Python Seurat 맞춤,0,Naive CD4 T,3,MAL
+Python Seurat 맞춤,0,Naive CD4 T,4,PRKCQ-AS1
+Python Seurat 맞춤,0,Naive CD4 T,5,FLT3LG
+Python Seurat 맞춤,0,Naive CD4 T,6,PIK3IP1
+Python Seurat 맞춤,0,Naive CD4 T,7,TCF7
+Python Seurat 맞춤,0,Naive CD4 T,8,NOSIP
+Python 기본값,1,CD14+ Mono,1,LYZ
+Python 기본값,1,CD14+ Mono,2,TYROBP
+Python 기본값,1,CD14+ Mono,3,CST3
+Python 기본값,1,CD14+ Mono,4,FTL
+Python 기본값,1,CD14+ Mono,5,S100A9
+Python 기본값,1,CD14+ Mono,6,S100A8
+Python 기본값,1,CD14+ Mono,7,FTH1
+Python 기본값,1,CD14+ Mono,8,LGALS1
+Python Seurat 맞춤,1,CD14+ Mono,1,FOLR3
+Python Seurat 맞춤,1,CD14+ Mono,2,S100A12
+Python Seurat 맞춤,1,CD14+ Mono,3,S100A8
+Python Seurat 맞춤,1,CD14+ Mono,4,S100A9
+Python Seurat 맞춤,1,CD14+ Mono,5,CD14
+Python Seurat 맞춤,1,CD14+ Mono,6,LGALS2
+Python Seurat 맞춤,1,CD14+ Mono,7,ASGR1
+Python Seurat 맞춤,1,CD14+ Mono,8,MS4A6A
+Python 기본값,2,Memory CD4 T,1,IL32
+Python 기본값,2,Memory CD4 T,2,LTB
+Python 기본값,2,Memory CD4 T,3,LDHB
+Python 기본값,2,Memory CD4 T,4,CD3D
+Python 기본값,2,Memory CD4 T,5,IL7R
+Python 기본값,2,Memory CD4 T,6,CD3E
+Python 기본값,2,Memory CD4 T,7,RPS25
+Python 기본값,2,Memory CD4 T,8,RPS12
+Python Seurat 맞춤,2,Memory CD4 T,1,AQP3
+Python Seurat 맞춤,2,Memory CD4 T,2,CD40LG
+Python Seurat 맞춤,2,Memory CD4 T,3,TRADD
+Python Seurat 맞춤,2,Memory CD4 T,4,CD2
+Python Seurat 맞춤,2,Memory CD4 T,5,IL7R
+Python Seurat 맞춤,2,Memory CD4 T,6,OPTN
+Python Seurat 맞춤,2,Memory CD4 T,7,TRAT1
+Python Seurat 맞춤,2,Memory CD4 T,8,MAL
+Python 기본값,3,B,1,CD74
+Python 기본값,3,B,2,HLA-DRA
+Python 기본값,3,B,3,HLA-DPB1
+Python 기본값,3,B,4,CD79A
+Python 기본값,3,B,5,HLA-DRB1
+Python 기본값,3,B,6,HLA-DPA1
+Python 기본값,3,B,7,CD79B
+Python 기본값,3,B,8,HLA-DQA1
+Python Seurat 맞춤,3,B,1,LINC00926
+Python Seurat 맞춤,3,B,2,VPREB3
+Python Seurat 맞춤,3,B,3,CD79A
+Python Seurat 맞춤,3,B,4,FCRLA
+Python Seurat 맞춤,3,B,5,TCL1A
+Python Seurat 맞춤,3,B,6,FCER2
+Python Seurat 맞춤,3,B,7,TSPAN13
+Python Seurat 맞춤,3,B,8,MS4A1
+Python 기본값,4,CD8 T,1,CCL5
+Python 기본값,4,CD8 T,2,NKG7
+Python 기본값,4,CD8 T,3,B2M
+Python 기본값,4,CD8 T,4,GZMA
+Python 기본값,4,CD8 T,5,IL32
+Python 기본값,4,CD8 T,6,CST7
+Python 기본값,4,CD8 T,7,CTSW
+Python 기본값,4,CD8 T,8,HLA-C
+Python Seurat 맞춤,4,CD8 T,1,GZMK
+Python Seurat 맞춤,4,CD8 T,2,GZMH
+Python Seurat 맞춤,4,CD8 T,3,CCL5
+Python Seurat 맞춤,4,CD8 T,4,CD8A
+Python Seurat 맞춤,4,CD8 T,5,KLRG1
+Python Seurat 맞춤,4,CD8 T,6,GZMA
+Python Seurat 맞춤,4,CD8 T,7,CST7
+Python Seurat 맞춤,4,CD8 T,8,CTSW
+Python 기본값,5,FCGR3A+ Mono,1,AIF1
+Python 기본값,5,FCGR3A+ Mono,2,LST1
+Python 기본값,5,FCGR3A+ Mono,3,FCER1G
+Python 기본값,5,FCGR3A+ Mono,4,FTH1
+Python 기본값,5,FCGR3A+ Mono,5,FTL
+Python 기본값,5,FCGR3A+ Mono,6,CST3
+Python 기본값,5,FCGR3A+ Mono,7,COTL1
+Python 기본값,5,FCGR3A+ Mono,8,TYROBP
+Python Seurat 맞춤,5,FCGR3A+ Mono,1,CKB
+Python Seurat 맞춤,5,FCGR3A+ Mono,2,CDKN1C
+Python Seurat 맞춤,5,FCGR3A+ Mono,3,HES4
+Python Seurat 맞춤,5,FCGR3A+ Mono,4,MS4A4A
+Python Seurat 맞춤,5,FCGR3A+ Mono,5,BATF3
+Python Seurat 맞춤,5,FCGR3A+ Mono,6,CTD-2006K23.1
+Python Seurat 맞춤,5,FCGR3A+ Mono,7,MS4A7
+Python Seurat 맞춤,5,FCGR3A+ Mono,8,LILRA3
+Python 기본값,6,NK,1,NKG7
+Python 기본값,6,NK,2,GZMB
+Python 기본값,6,NK,3,PRF1
+Python 기본값,6,NK,4,GNLY
+Python 기본값,6,NK,5,CTSW
+Python 기본값,6,NK,6,B2M
+Python 기본값,6,NK,7,GZMA
+Python 기본값,6,NK,8,CST7
+Python Seurat 맞춤,6,NK,1,SH2D1B
+Python Seurat 맞춤,6,NK,2,AKR1C3
+Python Seurat 맞춤,6,NK,3,GZMB
+Python Seurat 맞춤,6,NK,4,GNLY
+Python Seurat 맞춤,6,NK,5,SPON2
+Python Seurat 맞춤,6,NK,6,FGFBP2
+Python Seurat 맞춤,6,NK,7,CLIC3
+Python Seurat 맞춤,6,NK,8,KLRF1
+Python 기본값,7,DC,1,CST3
+Python 기본값,7,DC,2,HLA-DRA
+Python 기본값,7,DC,3,HLA-DPA1
+Python 기본값,7,DC,4,CD74
+Python 기본값,7,DC,5,HLA-DRB1
+Python 기본값,7,DC,6,HLA-DPB1
+Python 기본값,7,DC,7,HLA-DRB5
+Python 기본값,7,DC,8,LSP1
+Python Seurat 맞춤,7,DC,1,SERPINF1
+Python Seurat 맞춤,7,DC,2,FCER1A
+Python Seurat 맞춤,7,DC,3,CLIC2
+Python Seurat 맞춤,7,DC,4,ENHO
+Python Seurat 맞춤,7,DC,5,CLEC10A
+Python Seurat 맞춤,7,DC,6,CD1C
+Python Seurat 맞춤,7,DC,7,UPK3A
+Python Seurat 맞춤,7,DC,8,NDRG2
+Python 기본값,8,Platelet,1,GPX1
+Python 기본값,8,Platelet,2,PF4
+Python 기본값,8,Platelet,3,PPBP
+Python 기본값,8,Platelet,4,CALM3
+Python 기본값,8,Platelet,5,NRGN
+Python 기본값,8,Platelet,6,RGS18
+Python 기본값,8,Platelet,7,RGS10
+Python 기본값,8,Platelet,8,CCL5
+Python Seurat 맞춤,8,Platelet,1,LY6G6F
+Python Seurat 맞춤,8,Platelet,2,RP11-879F14.2
+Python Seurat 맞춤,8,Platelet,3,CLDN5
+Python Seurat 맞춤,8,Platelet,4,GP9
+Python Seurat 맞춤,8,Platelet,5,AP001189.4
+Python Seurat 맞춤,8,Platelet,6,ITGA2B
+Python Seurat 맞춤,8,Platelet,7,PTCRA
+Python Seurat 맞춤,8,Platelet,8,TMEM40
