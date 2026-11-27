@@ -1,0 +1,42 @@
+﻿설정,cluster,이름,세포수,순도
+Seurat 맞춤 Python,0,Memory CD4 T,601,60.9
+Seurat 맞춤 Python,1,B,332,100.0
+Seurat 맞춤 Python,2,CD14+ Mono,475,98.5
+Seurat 맞춤 Python,3,NK,137,100.0
+Seurat 맞춤 Python,4,CD8 T,291,99.7
+Seurat 맞춤 Python,5,FCGR3A+ Mono,147,100.0
+Seurat 맞춤 Python,6,Naive CD4 T,489,98.2
+Seurat 맞춤 Python,7,DC,25,100.0
+Seurat 맞춤 Python,8,Platelet,14,100.0
+doublet만 Scrublet,0,CD8 T,287,92.9
+doublet만 Scrublet,1,B,332,100.0
+doublet만 Scrublet,2,Memory CD4 T,353,88.3
+doublet만 Scrublet,3,CD14+ Mono,478,98.9
+doublet만 Scrublet,4,NK,152,93.6
+doublet만 Scrublet,5,Naive CD4 T,810,84.3
+doublet만 Scrublet,6,FCGR3A+ Mono,153,100.0
+doublet만 Scrublet,7,DC,28,100.0
+doublet만 Scrublet,8,Platelet,14,100.0
+PCA만 scanpy 기본값,0,CD8 T,320,90.6
+PCA만 scanpy 기본값,1,B,332,100.0
+PCA만 scanpy 기본값,2,Memory CD4 T,434,73.7
+PCA만 scanpy 기본값,3,CD14+ Mono,476,96.8
+PCA만 scanpy 기본값,4,NK,135,99.3
+PCA만 scanpy 기본값,5,FCGR3A+ Mono,171,81.3
+PCA만 scanpy 기본값,6,Naive CD4 T,628,93.6
+PCA만 scanpy 기본값,7,Platelet,15,93.3
+군집만 scanpy 기본값,0,Memory CD4 T,630,58.1
+군집만 scanpy 기본값,1,Naive CD4 T,498,90.6
+군집만 scanpy 기본값,2,CD14+ Mono,459,99.6
+군집만 scanpy 기본값,3,B,332,100.0
+군집만 scanpy 기본값,4,CD8 T,250,99.2
+군집만 scanpy 기본값,5,FCGR3A+ Mono,178,86.5
+군집만 scanpy 기본값,6,NK,140,97.9
+군집만 scanpy 기본값,7,DC,24,100.0
+모두 scanpy 기본값,0,Naive CD4 T,670,92.0
+모두 scanpy 기본값,1,CD14+ Mono,464,90.9
+모두 scanpy 기본값,2,Memory CD4 T,455,76.0
+모두 scanpy 기본값,3,B,332,100.0
+모두 scanpy 기본값,4,CD8 T,326,90.8
+모두 scanpy 기본값,5,FCGR3A+ Mono,210,73.8
+모두 scanpy 기본값,6,NK,150,94.4
